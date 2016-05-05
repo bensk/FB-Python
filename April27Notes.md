@@ -7,4 +7,4 @@
 
 "Are you smarter than 8th grader?"
 
-`/n` tells Python to go to the next line. <-- I learned something new!
+`\n` tells Python to go to the next line. <-- I learned something new!
